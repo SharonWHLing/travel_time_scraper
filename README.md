@@ -2,7 +2,9 @@
 
 Demo Python 3.7.4 script to scrape travel times using Google Distance Matrix API. Built in Jupyter Notebooks. 
 
-This is a script that I'm using for an academic project. Beta/personal use so expect some bugs.
+This is a script that I'm using for an academic project. 
+
+Beta/personal use so expect some bugs.
 
 Code relies on Google Distance Matrix API for results.
 
