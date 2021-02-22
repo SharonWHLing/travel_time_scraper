@@ -8,7 +8,7 @@ Beta/personal use so expect some bugs.
 
 Code relies on Google Distance Matrix API for results.
 
-REQUIRES: .csv file with the following columns: [FULL ADDRESS], [long], and [lat] for multiple starting locations. Destination is one fixed location. 
+REQUIRES: .csv file with columns [FULL ADDRESS], [long], and [lat] for multiple starting locations. Destination is the same one location. 
 
 Currently set up to pull driving travel times for every half hour from 6am-9am and 3pm-6pm (i.e. peak-hour travel times), and write the results to a new .csv file.
 
