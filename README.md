@@ -16,5 +16,5 @@ RESULTS: Populates a copy of the .csv file with travel times based on certain in
 
 NOTES: Currently pulls driving travel times for departure times of every 1/2 hour from 6am-9am and 3pm-6pm (assumed peak hours for traffic).
 
-Returns both "best guess" and "pessimistic" travel time estimates from Google Distance Matrix API.
+Returns "pessimistic" travel time estimates from Google Distance Matrix API.
 
