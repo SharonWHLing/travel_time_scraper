@@ -8,6 +8,8 @@ This is a demo project. Beta/personal use so expect some bugs.
 
 REQUIRES: .csv file with columns [FULL ADDRESS], [long], and [lat] for multiple starting locations. Destination is the same one location. 
 
+HOW TO USE: Run the script (in multiple parts) in Jupyter Notebook.
+
 RESULTS: Populates a copy of the .csv file with travel times based on certain input parameters (see below). 
 
 ----------------------------------------------------------------
